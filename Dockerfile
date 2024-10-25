@@ -2,5 +2,5 @@
 From tomcat:8-jre8 
 
 # Maintainer 
-LABEL   "Amiya" 
+LABEL maintainer="Amiya" 
 COPY ./webapp.war /usr/local/tomcat/webapps
